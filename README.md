@@ -1,5 +1,5 @@
 # neural_collaborative_filtering_tutorial
-Neural Collaborative Filtering Tutorial
+Neural Collaborative Filtering Tutorial <br>
 html page: https://khlee88.github.io/neural_collaborative_filtering_tutorial/
 
 Line by line tutorial of Neural Collaborative Filtering with the tensorflow. <br>
