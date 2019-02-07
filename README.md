@@ -2,7 +2,7 @@
 Neural Collaborative Filtering Tutorial <br>
 html page: https://khlee88.github.io/neural_collaborative_filtering_tutorial/
 
-Line by line tutorial of Neural Collaborative Filtering with the tensorflow. <br>
+Line by line tutorial of Neural Collaborative Filtering with tensorflow. <br>
 아래 원논문의 알고리즘 이해를 돕기 위한, 라인바이라인으로 코드를 수행해 볼 수 있는 Tutorial.
 
 ### reference
